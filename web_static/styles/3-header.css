@@ -1,0 +1,12 @@
+header {
+    background-color: #ffffff; 
+    height: 70px; 
+    width: 100%;
+    border-bottom: 1px;
+    border-bottom: #CCCCCC;
+    border-bottom-style: solid;
+}
+img {
+    align-items: center, left;
+    padding-left: 20px;
+}
