@@ -1,12 +1,15 @@
 header {
-    background-color: #ffffff; 
-    height: 70px; 
+    background-color: white;
+    height: 70px;
     width: 100%;
-    border-bottom: 1px;
-    border-bottom: #CCCCCC;
-    border-bottom-style: solid;
+    border-bottom: 1px solid #CCCCCC;
+    display: flex;
+    align-items: center;
 }
-img {
-    align-items: center, left;
+
+header .logo {
+    width: 142px;
+    height: 60px;
+    background: url("../images/logo.png") no-repeat center;
     padding-left: 20px;
 }
